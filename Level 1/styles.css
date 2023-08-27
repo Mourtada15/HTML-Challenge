@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    padding: 20px;
+}
+
+q {
+    font-style: italic;
+}
+
+.header {
+    background-color: #1f2c2c
+    ;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.footer {
+    background-color: #1f2c2c
+    ;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
